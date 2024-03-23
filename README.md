@@ -30,7 +30,3 @@ The initial codebase was built by following the GeeksforGeeks Flutter Tutorial. 
 ## License
 
 This project is released under the MIT License - see the LICENSE file for details.
-
-# translation_flutter_app
-
-Language Translator Application using Flutter.
